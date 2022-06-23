@@ -1,0 +1,10 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bys:items/nimbus2001_item"
+  },
+  "overrides": [
+    { "predicate": { "ismalefoy": 0.0000000 }, "model": "bys:item/nimbus2001_item" },
+    { "predicate": { "ismalefoy": 1.0000000 }, "model": "bys:item/nimbus2001_item_1" }
+  ]
+}

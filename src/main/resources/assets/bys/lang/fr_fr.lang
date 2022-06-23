@@ -1,0 +1,29 @@
+
+itemGroup.bystab=BuildYourStory
+
+tile.briefcase.name=Mallette
+
+container.briefcase=Mallette
+
+item.bludger_item.name=Cognard
+item.golden_snitch_item.name=Vif d'Or
+item.quaffle_item.name=Souaffle
+item.brossdur1_item.name=Brossdur 1
+item.varapidos_item.name=Varapidos
+item.beater.name=Batte
+item.net.name=Filet
+item.quidditch_guide.name=Guide de Quidditch
+
+entity.varapidos.name=Varapidos
+entity.bludger.name=Cognard
+entity.quaffle.name=Souaffle
+entity.golden_snitch.name=Vif d'Or
+entity.brossdur1.name=Brossdur 1
+
+messages.golden_snitch_caught= vient d'attraper le Vif d'Or!
+messages.limits_not_set=Merci de définir la zone dans laquelle la balle va voler.
+messages.not_in_zone=Merci de faire spawner la balle dans la limite de la zone définie.
+messages.first_pos_set=La première position a bien été définie.
+messages.second_pos_set=La seconde position a bien été définie.
+messages.sort_set=Le sort a été défini sur
+messages.sort_applied=Le balai a été ensorcelé avec le sortilège

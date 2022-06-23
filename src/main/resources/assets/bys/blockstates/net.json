@@ -1,0 +1,43 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "bys:net.obj"
+  },
+  "variants": {
+    "inventory": [
+      {
+        "transform": {
+          "thirdperson_lefthand": {
+            "rotation": [ { "x": 115 }, { "y": 0 }, { "z": 180 } ],
+            "translation": [ 0.1, 1.1, 0.55 ],
+            "scale": 0.2
+          },
+          "thirdperson_righthand": {
+            "rotation": [ { "x": 115 }, { "y": 0}, { "z": 180 } ],
+            "translation": [ -0.1, 1.1, 0.55 ],
+            "scale": 0.2
+          },
+          "gui": {
+            "rotation": [ { "x": 90 }, { "y": -45 }, { "z": -90 } ],
+            "translation": [ 0.2,0, 1.5 ],
+            "scale": 0.18
+          },
+          "firstperson_righthand": {
+            "rotation": [ { "x": -90 }, { "y": 185 }, { "z": -10} ],
+            "translation": [ 0, 0.3, -0.8 ],
+            "scale": 0.3
+          },
+          "firstperson_lefthand": {
+            "rotation": [ { "x": -90 }, { "y": 185 }, { "z": -10 } ],
+            "translation": [ 0, 0.3, -0.8 ],
+            "scale": 0.3
+          },
+          "ground": {
+            "rotation": [ { "x": 90 }, { "y": 0 }, { "z": 0 } ],
+            "scale": 0.1
+          }
+        }
+      }
+    ]
+  }
+}

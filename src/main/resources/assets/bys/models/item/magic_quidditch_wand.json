@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bys:items/magic_quidditch_wand"
+  }
+}

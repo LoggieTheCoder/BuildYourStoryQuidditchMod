@@ -1,0 +1,92 @@
+
+itemGroup.quidditchtab=Quidditch
+
+
+tile.briefcase.name=Briefcase
+
+
+container.briefcase=Briefcase
+
+
+item.bludger_item.name=Bludger
+item.golden_snitch_item.name=Golden Snitch
+item.quaffle_item.name=Quaffle
+item.batte.name=Beater
+item.net.name=Ball Net
+item.magic_quidditch_wand.name=Quidditch Magic Wand
+
+item.quidditch_guide.name=Quidditch Guide
+
+item.bluebottle_item.name= Blue Bottle
+item.varapidos_item.name=Varapidos
+item.brossdur1_item.name=Brossdur 1
+item.brossdur3_item.name=Brossdur 3
+item.brossdur5_item.name=Brossdur 5
+item.brossdur6_item.name=Brossdur 6
+item.brossdur7_item.name=Brossdur 7
+item.brossdur11_item.name=Brossdur 11
+item.comet140_item.name=Comet 140
+item.comet180_item.name=Comet 180
+item.comet260_item.name=Comet 260
+item.comet290_item.name=Comet 290
+item.firebolt_item.name=Firebolt
+item.moontrimmer_item.name=Moon Trimmer
+item.nimbus1000_item.name= Nimbus 1000
+item.nimbus1001_item.name= Nimbus 1001
+item.nimbus1500_item.name= Nimbus 1500
+item.nimbus1700_item.name= Nimbus 1700
+item.nimbus2000_item.name= Nimbus 2000
+item.nimbus2001_item.name= Nimbus 2001
+item.oakshaft79_item.name= Oakshaft 79
+item.shootingstar_item.name= ShootingStar
+item.silver_arrow_item.name= Silver Arrow
+item.swiftstick_item.name= SwiftStick
+item.tinderblast_item.name= TinderBlast
+item.twigger90_item.name= Twigger 90
+item.baletoile_xxi_item.name= Baletoile XXI
+item.yajirushi_item.name= Yajirushi
+item.firebolt_supreme_item.name= Firebolt Supreme
+
+
+entity.bludger.name=Bludger
+entity.quaffle.name=Quaffle
+entity.golden_snitch.name=Golden Snitch
+
+entity.bluebottle.name = Blue Bottle
+entity.varapidos.name=Varapidos
+entity.brossdur1.name=Brossdur 1
+entity.brossdur3.name = Brossdur 3
+entity.brossdur5.name = Brossdur 5
+entity.brossdur6.name = Brossdur 6
+entity.brossdur7.name = Brossdur 7
+entity.brossdur11.name=Brossdur 11
+entity.comet140.name = Comet 140
+entity.comet180.name = Comet 180
+entity.comet260.name = Comet 260
+entity.comet290.name = Comet 290
+entity.firebolt.name = Firebolt
+entity.moontrimmer.name = Moon Trimmer
+entity.nimbus1000.name = Nimbus 1000
+entity.nimbus1001.name = Nimbus 1001
+entity.nimbus1500.name = Nimbus 1500
+entity.nimbus1700.name = Nimbus 1700
+entity.nimbus2000.name = Nimbus 2000
+entity.nimbus2001.name = Nimbus 2001
+entity.oakshaft79.name = Oakshaft 79
+entity.shootingstar.name = ShootingStar
+entity.silver_arrow.name = Silver Arrow
+entity.swiftstick.name = SwiftStick
+entity.tinderblast.name = TinderBlast
+entity.twigger90.name = Twigger 90
+entity.baletoile_xxi.name = Baletoile XXI
+entity.yajirushi.name = Yajirushi
+entity.firebolt_supreme.name = Firebolt Supreme
+
+
+messages.golden_snitch_caught= just caught the Golden Snitch!
+messages.limits_not_set=Please set the two limits where the ball will fly.
+messages.not_in_zone=Please spawn the ball in the definided zone.
+messages.first_pos_set=Successfuly set the first position.
+messages.second_pos_set=Successfuly set the second position.
+messages.sort_set=The sort have been set to
+messages.sort_applied=You bewitched the broom with the sortilege
