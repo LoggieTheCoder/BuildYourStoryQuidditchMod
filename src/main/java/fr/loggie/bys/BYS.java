@@ -25,6 +25,7 @@ import net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper;
 
 @Mod(modid= References.MODID,name=References.NAME,version=References.VERSION)
 public class BYS{
+
     public static SimpleNetworkWrapper PACKETS_CHANNEL;
     public static final CreativeTabs QUIDDITCH_TAB = new QuidditchTab("quidditchtab","bys.png");
 
