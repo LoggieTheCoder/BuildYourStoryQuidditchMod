@@ -71,7 +71,7 @@ public abstract class AbstractObjModel {
     /**
      * Removes all generated duplications, which will appear if you add children to other {@link ObjModelRenderer}s.
      * You may separate model parts and add children during for example constructing model.
-     * Example can be seen here: {@link example.ModelPhoenix}
+     * Example can be seen here:
      * <p>
      * If you forget to clear duplications, error messages will be printed to console every render frame.
      * <p>
